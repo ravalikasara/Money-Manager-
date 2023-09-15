@@ -1,0 +1,11 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.delete {
+  width: 20px;
+  height: 20px;
+}
+.delete-container {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

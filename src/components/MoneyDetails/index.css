@@ -1,0 +1,28 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.list {
+  border-radius: 5px;
+  margin: 10px;
+  min-width: 200px;
+  min-height: 100px;
+  display: flex;
+  padding: 20px;
+  flex-direction: row;
+}
+.img {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+.bg-1 {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+.bg-2 {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.bg-3 {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}

@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 50px;
+}
+.top-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  border-radius: 10px;
+  background-size: cover;
+  padding: 100px;
+}
+.manager {
+  color: blue;
+}
+.ul-lists {
+  display: flex;
+  flex-direction: row;
+}
+.bottom-card {
+  display: flex;
+  flex-direction: row;
+}
+.input-card {
+  border: 1px solid grey;
+  border-radius: 8px;
+  min-height: 200px;
+  min-width: 350px;
+  padding: 30px;
+  margin: 20px;
+}
+.input {
+  height: 30px;
+  width: 300px;
+  border: 1px solid grey;
+}
+.btn {
+  background-color: aqua;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+.b-card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid grey;
+  margin-top: 0px;
+  margin: 0px;
+  width: 300px;
+  height: 40px;
+
+  align-items: center;
+}
+
+.titles {
+  font-weight: 500;
+  margin-left: 20px;
+}
+.items {
+  margin-left: 20px;
+}
